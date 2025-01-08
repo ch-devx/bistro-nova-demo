@@ -25,5 +25,6 @@ for (let i of links){
    i.addEventListener("click", ()=>{
       navbar.classList.add("closed-navbar");
       toggler.classList.remove("not-show");
+      background.style.zIndex= "-10";
    });
 };
