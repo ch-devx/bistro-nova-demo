@@ -137,7 +137,7 @@ HOME
 */
 
 .home{
-   background-image: url("images/pizza.jpg");
+   background-image: url("images/pizza.webp");
    display: flex;
    flex-direction: column;
    justify-content: space-around;
@@ -250,7 +250,7 @@ MENU
 .menu-img-container{
   overflow: hidden;
   flex: 1;
-  background-image: url("images/menu.jpg");
+  background-image: url("images/menu.webp");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 66%;
