@@ -137,7 +137,7 @@ HOME
 */
 
 .home{
-   background-image: url("images/pizza.webp");
+   background-image: url("images/pizza-mobile.webp");
    display: flex;
    flex-direction: column;
    justify-content: space-around;
@@ -250,7 +250,7 @@ MENU
 .menu-img-container{
   overflow: hidden;
   flex: 1;
-  background-image: url("images/menu.webp");
+  background-image: url("images/menu-mobile.webp");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 66%;
@@ -405,12 +405,18 @@ QUERIES
    li{
       margin: auto;
    }
+   .home{
+      background-image: url("images/pizza-desktop.webp");
+   }
    .home-buttons{
 		width: 80vw;
 		margin: auto;
    }
    .home h2{
 		font-weight: 400;
+   }
+   .menu-img-container{
+	   background-image: url("images/menu-desktop.webp");
    }
 }
 
