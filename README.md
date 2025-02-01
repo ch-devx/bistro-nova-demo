@@ -1,4 +1,4 @@
-# Bistro Nova - Restaurant-Café Website Demo  
+# Bistro Nova  -  Restaurant - Café Website Demo  
 
 **Bistro Nova** is a fictional restaurant-café website designed as part of my web development portfolio. This project highlights responsive design, performance optimization, and modern web development techniques.  
 
